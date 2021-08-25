@@ -1,12 +1,25 @@
 ## Algorithm Foundations of Data Science and Engineering
 ## ------   2021, Fall   ------
 
-# Header 1
-## Header 2
-### Header 3
+### Course Description
+Data scientists, that peculiar mix of software engineer and statistician. The purpose of this course is to introduce some commonly used algorithms for data scientists and engineers. In particular, this class is meant to introduce randomized , statistical, algebraic, and optimized algorithms, with an emphasis on applications in the real life.
 
-- Bulleted
-- List
+### Instructor: Yanhao Wang (王延昊)
+- Ph. D. & Tenure-Track Associate Professor
+- Office: Rm. East 117, Math. Building
+- Email: <yhwang@dase.ecnu.edu.cn>
+
+### Teaching Assistant
+- Names
+- Office
+- Email Addresses
+
+### Course Time
+- Monday
+- Friday
+
+### Course Schedule
+- Chapter 0: Introduction
 
 1. Numbered
 2. List
@@ -15,13 +28,3 @@
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yhwang1990/ads-2021-fall/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
