@@ -1,5 +1,5 @@
 ## Algorithm Foundations of Data Science and Engineering
-## ------   2021, Fall   ------
+## ---  2021, Fall  ---
 
 ### Course Description
 Data scientists, that peculiar mix of software engineer and statistician. The purpose of this course is to introduce some commonly used algorithms for data scientists and engineers. In particular, this class is meant to introduce randomized , statistical, algebraic, and optimized algorithms, with an emphasis on applications in the real life.
