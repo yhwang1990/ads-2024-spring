@@ -20,25 +20,25 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 - **Chapter 0: Introduction**
-  1. Introduction [Slides_EN](url) [Slides_CN](url)
+  - 0.1 Introduction [Slides_EN](url) [Slides_CN](url)
 - **Chapter 1: Probability and Statistics**
-  1. Probability Inequality [Slides_EN](url) [Slides_CN](url)
-  2. Hashing [Slides_EN](url) [Slides_CN](url)
-  3. Sampling [Slides_EN](url) [Slides_CN](url)
-  4. Sketching [Slides_EN](url) [Slides_CN](url)
-  5. Random Walk [Slides_EN](url) [Slides_CN](url)
-  6. EM Algorithm [Slides_EN](url) [Slides_CN](url)
-  7. MCMC [Slides_EN](url)
+  - 1.1 Probability Inequality
+  - 1.2 Hashing
+  - 1.3 Sampling
+  - 1.4 Sketching
+  - 1.5 Random Walk
+  - 1.6 EM Algorithm
+  - 1.7 MCMC
 - **Chapter 2: Linear Algebra**
-  1. Eigenvalue Computation [Slides_EN](url) [Slides_CN](url)
-  2. SVD and PCA [Slides_EN](url) [Slides_CN](url)
-  3. Matrix Decomposition [Slides_EN](url) [Slides_CN](url)
+  - 2.1 Eigenvalue Computation
+  - 2.2 SVD and PCA
+  - 2.3 Matrix Decomposition
 - **Chapter 3: Combinatorial Optimization**
-  1. Integer Programming [Slides_EN](url) [Slides_CN](url)
-  2. Submodular Maximization [Slides_EN](url) [Slides_CN](url)
-  3. Community [Slides_EN](url) [Slides_CN](url)
+  - 3.1 Integer Programming
+  - 3.2 Submodular Maximization
+  - 3.3 Community
 - **Chapter 4: Summarization**
-  1. Summarization
+  - 4.1 Summarization
 
 ### Project
 - **Project 1: Image Compression**
@@ -55,4 +55,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
 ### Online Courses
-- CS246@Stanford by Jure Leskovec: [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+- CS246 @ Stanford University by Jure Leskovec: [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
+- D&K @ Université Paris-Saclay by Albert Bifet: [IoT Stream Data Mining](https://albertbifet.com/dk-iot-stream-data-mining-2019-2020/)
+- MTH 417 @ IIT Kanpur by Shalabh: [Sampling Theory](http://home.iitk.ac.in/~shalab/course1.htm)
+- MATP6620 @ Rensselaer Polytechnic Institute by John E. Mitchell: [Integer and Combinatorial Optimization](https://homepages.rpi.edu/~mitchj/matp6620/)
