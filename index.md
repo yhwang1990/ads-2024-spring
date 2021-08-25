@@ -1,5 +1,5 @@
 ## Algorithm Foundations of Data Science and Engineering
-## ------2021, Fall------
+## ------   2021, Fall   ------
 
 # Header 1
 ## Header 2
