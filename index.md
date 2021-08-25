@@ -22,12 +22,12 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - **Chapter 0: Introduction**
   - 0.1 Introduction [[Slides_EN](url)] [[Slides_CN](url)]
 - **Chapter 1: Probability and Statistics**
-  - 1.1 Probability Inequality
-  - 1.2 Hashing
-  - 1.3 Sampling
-  - 1.4 Sketching
-  - 1.5 Random Walk
-  - 1.6 EM Algorithm
+  - 1.1 Sampling
+  - 1.2 Probability Inequality
+  - 1.3 Hashing
+  - 1.4 Sketch
+  - 1.5 EM Algorithm
+  - 1.6 Random Walk
   - 1.7 MCMC
 - **Chapter 2: Linear Algebra**
   - 2.1 Eigenvalue Computation
@@ -35,7 +35,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   - 2.3 Matrix Decomposition
 - **Chapter 3: Combinatorial Optimization**
   - 3.1 Integer Programming
-  - 3.2 Submodular Maximization
+  - 3.2 Submodular Function
   - 3.3 Community
 - **Chapter 4: Summary**
   - 4.1 Summary
