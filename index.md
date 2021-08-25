@@ -37,8 +37,8 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   - 3.1 Integer Programming
   - 3.2 Submodular Maximization
   - 3.3 Community
-- **Chapter 4: Summarization**
-  - 4.1 Summarization
+- **Chapter 4: Summary**
+  - 4.1 Summary
 
 ### Project
 - **Project 1: Image Compression**
