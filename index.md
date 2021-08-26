@@ -20,7 +20,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 - **Chapter 0: Introduction**
-  - 0.1 Introduction [[Slides_EN](url)] [[Slides_CN](url)]
+  - 0.1 Introduction [[Slides_EN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRbnRE1XsWHY_SwoA?e=f2yTM1)] [[Slides_CN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRch7WnsEKJ0Uuxng?e=cDLfww)]
 - **Chapter 1: Probability and Statistics**
   - 1.1 Sampling
   - 1.2 Probability Inequality
