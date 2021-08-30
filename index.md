@@ -15,8 +15,8 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - Email Addresses
 
 ### Course Time
-- Monday
-- Friday
+- Monday 8:00am -- 9:35am (Since Sep. 6, 2021)
+- Friday 1:00pm -- 2:35pm (Since Sep. 10, 2021)
 
 ### Course Schedule
 - **Chapter 0: Introduction**
