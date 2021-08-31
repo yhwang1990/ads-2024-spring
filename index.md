@@ -46,7 +46,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   2. **Dataset** [[Download](https://1drv.ms/u/s!ArbH_EdTVq_fgpRgjs7gFLxV7iIjwQ?e=KjAKtx)]
   3. **Report Template** [[Template](https://1drv.ms/w/s!ArbH_EdTVq_fgpRfXdm5IW3lk-yc2A?e=6yX5nn)]
 - **Project 2: Text Summarization**
-  1. **Task Description:** Please crawl a corpus from the Web, which contains some documents under a topic, extract keywords from them. Implement an algorithm to generate 100 summarizations from the corpus. In the final report, please illustrate the performance of text summarization, such as elapsed time, quality of generated summaries, and case study, etc.
+  1. **Task Description:** You should crawl a corpus from the Web, which contains some documents under a topic, and extract keywords from them. Then, you need to implement an algorithm (based on the maximum k-coverage problem) to generate 100 summaries from the corpus. In the final report, please illustrate the performance of text summarization, such as elapsed time, quality of generated summaries, and case study, etc.
   2. **Report Template** [[Template]([url](https://1drv.ms/w/s!ArbH_EdTVq_fgpRfXdm5IW3lk-yc2A?e=6yX5nn))]
 
 ### Textbook
