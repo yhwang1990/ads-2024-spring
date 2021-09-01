@@ -9,10 +9,9 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - Office: Rm. East 117, Math. Building
 - Email: <yhwang@dase.ecnu.edu.cn>
 
-### Teaching Assistant
-- Names
-- Office
-- Email Addresses
+### Teaching Assistant: Kangyang Luo (罗康洋) & Kunkun Zhang (张坤坤)
+- Office: Rm. East 101, Math. Building
+- Email: <52205901003@stu.ecnu.edu.cn> & <51205903092@stu.ecnu.edu.cn>
 
 ### Course Time
 - Monday 8:00am -- 9:35am (Since Sep. 6, 2021)
