@@ -7,7 +7,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### Instructor: Yanhao Wang (王延昊)
 - Ph. D. & Tenure-Track Associate Professor
 - Office: Rm. East 117, Math. Building
-- Email: <yhwang@dase.ecnu.edu.cn>
+- Email: <wangyanhao1990@hotmail.com>
 
 ### Teaching Assistants
 - Name: Kangyang Luo (罗康洋) & Kunkun Zhang (张坤坤)
