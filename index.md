@@ -20,9 +20,9 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 - **Chapter 0: Introduction**
-  - 0.1 Introduction [[Slides_EN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRbnRE1XsWHY_SwoA)] [[Slides_CN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRch7WnsEKJ0Uuxng)]
+  - 0.1 Introduction [[Slides_EN](https://pan.baidu.com/s/1Iy7Z-eDc_GWlXY-dCX-mHw)] (Code: cy3t) [[Slides_CN](https://pan.baidu.com/s/17XSkjCW8fJQOMAbV0fGb-A)] (Code: 8pre)
 - **Chapter 1: Probability and Statistics**
-  - 1.1 Sampling [[Slides_EN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRi336UghlMfAmjCA)] [[Slides_CN](https://1drv.ms/b/s!ArbH_EdTVq_fgpRjCK1RwWg6QwYlSQ)]
+  - 1.1 Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1CZpygRBhPtwEs-BNrNdM5A)] (Code: 8mib)
   - 1.2 Probability Inequality
   - 1.3 Hashing
   - 1.4 Sketch
@@ -42,14 +42,14 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### Project
 - **Project 1: Image Compression**
   1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
-  2. **Dataset** [[Download](https://1drv.ms/u/s!ArbH_EdTVq_fgpRgjs7gFLxV7iIjwQ?e=KjAKtx)]
-  3. **Report Template** [[Template](https://1drv.ms/w/s!ArbH_EdTVq_fgpRfXdm5IW3lk-yc2A?e=6yX5nn)]
+  2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
+  3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 - **Project 2: Text Summarization**
   1. **Task Description:** You should crawl a corpus from the Web, which contains some documents under a topic, and extract keywords from them. Then, you need to implement an algorithm (based on the maximum k-coverage problem) to generate 100 summaries from the corpus. In the final report, please illustrate the performance of text summarization, such as elapsed time, quality of generated summaries, and case study, etc.
-  2. **Report Template** [[Template]([url](https://1drv.ms/w/s!ArbH_EdTVq_fgpRfXdm5IW3lk-yc2A?e=6yX5nn))]
+  2. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 
 ### Textbook
-- Ming Gao, Huiqi Hu: Algorithm Foundations of Data Science and Engineering [[Lecture Notes]](https://1drv.ms/b/s!ArbH_EdTVq_fgq1YElZ_V2k9n4nwFQ) [[JD]](https://item.jd.com/12863803.html) [[DangDang]](http://product.dangdang.com/29253772.html)
+- Ming Gao, Huiqi Hu: Algorithm Foundations of Data Science and Engineering [[Lecture Notes]](https://pan.baidu.com/s/1_Cb9UzfqrJaNv1zmtgrMVg) (Code: zpgb) [[JD]](https://item.jd.com/12863803.html) [[DangDang]](http://product.dangdang.com/29253772.html)
 - Jure Leskovec, Anand Rajaraman and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
 - Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
