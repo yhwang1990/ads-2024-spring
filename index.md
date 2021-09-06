@@ -49,7 +49,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   2. **Report Template** [[Template]([url](https://1drv.ms/w/s!ArbH_EdTVq_fgpRfXdm5IW3lk-yc2A?e=6yX5nn))]
 
 ### Textbook
-- Ming Gao, Huiqi Hu: [Algorithm Foundations of Data Science and Engineering](https://item.jd.com/12863803.html)
+- Ming Gao, Huiqi Hu: Algorithm Foundations of Data Science and Engineering [[Lecture Notes]](https://1drv.ms/b/s!ArbH_EdTVq_fgq1YElZ_V2k9n4nwFQ) [[JD]](https://item.jd.com/12863803.html) [[DangDang]](http://product.dangdang.com/29253772.html)
 - Jure Leskovec, Anand Rajaraman and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
 - Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
