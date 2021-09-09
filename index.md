@@ -7,7 +7,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### Instructor: Yanhao Wang (王延昊)
 - Ph. D. & Tenure-Track Associate Professor
 - Office: Rm. East 117, Math. Building
-- Email: <wangyanhao1990@hotmail.com>
+- Email: <yhwang@dase.ecnu.edu.cn>
 
 ### Teaching Assistants
 - Name: Kangyang Luo (罗康洋) & Kunkun Zhang (张坤坤)
@@ -20,7 +20,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 - **Chapter 0: Introduction**
-  - 0.1 Introduction [[Slides_EN](https://pan.baidu.com/s/1Iy7Z-eDc_GWlXY-dCX-mHw)] (Code: cy3t) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
+  - 0.1 Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
 - **Chapter 1: Probability and Statistics**
   - 1.1 Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1eEkKT-lA3G_NaWDK1loD7Q)] (Code: lah6)
   - 1.2 Probability Inequality
