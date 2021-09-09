@@ -22,7 +22,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - **Chapter 0: Introduction**
   - 0.1 Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
 - **Chapter 1: Probability and Statistics**
-  - 1.1 Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1eEkKT-lA3G_NaWDK1loD7Q)] (Code: lah6)
+  - 1.1 Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1XXbhQcbCwr_ymhojEHKyiw)] (Code: cg2t)
   - 1.2 Probability Inequality
   - 1.3 Hashing
   - 1.4 Sketch
