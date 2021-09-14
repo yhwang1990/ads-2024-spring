@@ -24,7 +24,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - **Chapter 1: Probability and Statistics**
   - 1.1 Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1Lcv0lGSvuRpk3iUBwe99kQ)] (Code: tcrr)
   - 1.2 Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1k4XlCF0GZ21VKDCh5P2Bfg)] (Code: t7fu) [[Slides_CN](https://pan.baidu.com/s/1cIXBri5UxGsiZSq6HYrBtw)] (Code: d6t8)
-  - 1.3 Hashing
+  - 1.3 Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj)
   - 1.4 Sketch
   - 1.5 EM Algorithm
   - 1.6 Markov Chain and Random Walk
