@@ -1,24 +1,30 @@
-## Algorithm Foundations of Data Science and Engineering
+# Algorithms for Data Science and Engineering
+
 ## ---  2021, Fall  ---
 
 ### Course Description
+
 Data scientists, that peculiar mix of software engineer and statistician. The purpose of this course is to introduce some commonly used algorithms for data scientists and engineers. In particular, this class is meant to introduce randomized , statistical, algebraic, and optimized algorithms, with an emphasis on applications in the real life.
 
 ### Instructor: Yanhao Wang (王延昊)
+
 - Ph. D. & Tenure-Track Associate Professor
 - Office: Rm. East 117, Math. Building
 - Email: <yhwang@dase.ecnu.edu.cn>
 
 ### Teaching Assistants
+
 - Name: Kangyang Luo (罗康洋) & Kunkun Zhang (张坤坤)
 - Office: Rm. East 101, Math. Building
 - Email: <52205901003@stu.ecnu.edu.cn> & <51205903092@stu.ecnu.edu.cn>
 
 ### Course Time
+
 - Monday 8:00am -- 9:35am (Since Sep. 6, 2021)
 - Friday 1:00pm -- 2:35pm (Since Sep. 10, 2021)
 
 ### Course Schedule
+
 - **Chapter 0: Introduction**
   - 0.1 Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
 - **Chapter 1: Probability and Statistics**
@@ -40,6 +46,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   - 4.1 Summary
 
 ### Project
+
 - **Project 1: Image Compression**
   1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
   2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
@@ -49,11 +56,13 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   2. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 
 ### Textbook
+
 - Ming Gao, Huiqi Hu: Algorithm Foundations of Data Science and Engineering [[JD]](https://item.jd.com/12863803.html) [[DangDang]](http://product.dangdang.com/29253772.html)
 - Jure Leskovec, Anand Rajaraman and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
 - Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
 ### Online Courses
+
 - CS246 @ Stanford University by Jure Leskovec: [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 - D&K @ Université Paris-Saclay by Albert Bifet: [IoT Stream Data Mining](https://albertbifet.com/dk-iot-stream-data-mining-2019-2020/)
 - MTH 417 @ IIT Kanpur by Shalabh: [Sampling Theory](http://home.iitk.ac.in/~shalab/course1.htm)
