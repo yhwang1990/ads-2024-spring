@@ -33,7 +33,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   - 1.3 Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj)
   - 1.4 Sketch [[Slides_EN](https://pan.baidu.com/s/1MVYkg2z8EF7Ze8JUJqNupg)] (Code: uuq7) [[Slides_CN](https://pan.baidu.com/s/1R32AKBt9fU0uibAt3PqcOA)] (Code: jcvw)
   - 1.5 EM Algorithm [[Slides_EN](https://pan.baidu.com/s/13UTWYmi66DbtXF6beqZ0VA)] (Code: ft2l) [[Slides_CN](https://pan.baidu.com/s/1QGYokjRHMmfCq6Uk1anqhA)] (Code: 2mbe)
-  - 1.6 Markov Chain and Random Walk
+  - 1.6 Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep)
 - **Chapter 2: Linear Algebra**
   - 2.1 Eigenvalue Computation
   - 2.2 SVD and PCA
