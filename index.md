@@ -36,7 +36,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   - 1.6 Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep)
 - **Chapter 2: Linear Algebra**
   - 2.1 Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
-  - 2.2 SVD and PCA
+  - 2.2 SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
   - 2.3 Matrix Decomposition
 - **Chapter 3: Combinatorial Optimization**
   - 3.1 Integer Programming
