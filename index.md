@@ -25,13 +25,13 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 
-- 1. Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
-- 2. Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1Lcv0lGSvuRpk3iUBwe99kQ)] (Code: tcrr) [[Tutorial](https://pan.baidu.com/s/1X-cwFfaFhNKivYPCvlsY9Q)] (Code: 0vtf)
-- 3. Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1k4XlCF0GZ21VKDCh5P2Bfg)] (Code: t7fu) [[Slides_CN](https://pan.baidu.com/s/1cIXBri5UxGsiZSq6HYrBtw)] (Code: d6t8) [[Tutorial](https://pan.baidu.com/s/1ZID_kJ7CYK1A_-BJZ3Z4QA)] (Code: 5vrm)
-- 4. Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj) [[Tutorial](https://pan.baidu.com/s/1VQGW9VMlhBx1blppgbo_Ug)] (Code: jmc2)
-- 5. Sketch [[Slides_EN](https://pan.baidu.com/s/1MVYkg2z8EF7Ze8JUJqNupg)] (Code: uuq7) [[Slides_CN](https://pan.baidu.com/s/1R32AKBt9fU0uibAt3PqcOA)] (Code: jcvw)
-- 6. EM Algorithm [[Slides_EN](https://pan.baidu.com/s/13UTWYmi66DbtXF6beqZ0VA)] (Code: ft2l) [[Slides_CN](https://pan.baidu.com/s/1m07_vBtYycaW8t3ytpBYYw)] (Code: 9clh)
-- 7. Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep)
+- 1: Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
+- 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1Lcv0lGSvuRpk3iUBwe99kQ)] (Code: tcrr) [[Tutorial](https://pan.baidu.com/s/1X-cwFfaFhNKivYPCvlsY9Q)] (Code: 0vtf)
+- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1k4XlCF0GZ21VKDCh5P2Bfg)] (Code: t7fu) [[Slides_CN](https://pan.baidu.com/s/1cIXBri5UxGsiZSq6HYrBtw)] (Code: d6t8) [[Tutorial](https://pan.baidu.com/s/1ZID_kJ7CYK1A_-BJZ3Z4QA)] (Code: 5vrm)
+- 4: Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj) [[Tutorial](https://pan.baidu.com/s/1VQGW9VMlhBx1blppgbo_Ug)] (Code: jmc2)
+- 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1MVYkg2z8EF7Ze8JUJqNupg)] (Code: uuq7) [[Slides_CN](https://pan.baidu.com/s/1R32AKBt9fU0uibAt3PqcOA)] (Code: jcvw)
+- 6: EM Algorithm [[Slides_EN](https://pan.baidu.com/s/13UTWYmi66DbtXF6beqZ0VA)] (Code: ft2l) [[Slides_CN](https://pan.baidu.com/s/1m07_vBtYycaW8t3ytpBYYw)] (Code: 9clh)
+- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep)
 - **Chapter 2: Linear Algebra**
   - 2.1 Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
   - 2.2 SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
