@@ -31,7 +31,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 4: Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj) [[Tutorial](https://pan.baidu.com/s/1VQGW9VMlhBx1blppgbo_Ug)] (Code: jmc2)
 - 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1MVYkg2z8EF7Ze8JUJqNupg)] (Code: uuq7) [[Slides_CN](https://pan.baidu.com/s/1R32AKBt9fU0uibAt3PqcOA)] (Code: jcvw)
 - 6: EM Algorithm [[Slides_EN](https://pan.baidu.com/s/13UTWYmi66DbtXF6beqZ0VA)] (Code: ft2l) [[Slides_CN](https://pan.baidu.com/s/1m07_vBtYycaW8t3ytpBYYw)] (Code: 9clh) [[Tutorial](https://pan.baidu.com/s/1lUPJbsOeQKL85Sm-_IM5MQ)] (Code: 748n)
-- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep)
+- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep) [[Tutorial](https://pan.baidu.com/s/1sPwNnrNiiSJT8DsPmDrWUw)] (Code: hta7)
 - Mid-Term Summary [[Slides](https://pan.baidu.com/s/1KpEgx0k23eKHc_0vaqwjGw)] (Code: hpkn)
 - 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
 - 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
