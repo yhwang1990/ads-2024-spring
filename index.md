@@ -36,7 +36,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
 - 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
 - 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1-0doDzdU7V6j3bLHdABAAA)] (Code: 125p) [[Slides_CN](https://pan.baidu.com/s/1WZiIpR7LWeTMSxGPujQ9oQ)] (Code: m9v6)
-- 11: Integer Programming [[Slides_EN](https://pan.baidu.com/s/1i43mFV9-AREQk4RLgGLAwQ)] (Code: l2k5) [[Slides_CN](https://pan.baidu.com/s/1A4tF0OBQtWeVkgRDU84Jxw)] (Code: 59tb)
+- 11: Integer Programming [[Slides_EN](https://pan.baidu.com/s/1i43mFV9-AREQk4RLgGLAwQ)] (Code: l2k5) [[Slides_CN](https://pan.baidu.com/s/1A4tF0OBQtWeVkgRDU84Jxw)] (Code: 59tb) [[LP_Tutorial](https://pan.baidu.com/s/1rMAERXfpL7rnKGY3T0CIHw)] (Code: cwam)
 - 12: Submodular Function [[Slides_EN](https://pan.baidu.com/s/1xR24VYVTjQsLKL8YehVo4A)] (Code: j818) [[Slides_CN](https://pan.baidu.com/s/1TRDOutlhoKI9yDZvOFZYFA)] (Code: bqai)
 - 13: Community
 - Summary
