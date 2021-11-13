@@ -38,8 +38,10 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1-0doDzdU7V6j3bLHdABAAA)] (Code: 125p) [[Slides_CN](https://pan.baidu.com/s/1WZiIpR7LWeTMSxGPujQ9oQ)] (Code: m9v6)
 - 11: Integer Programming [[Slides_EN](https://pan.baidu.com/s/1i43mFV9-AREQk4RLgGLAwQ)] (Code: l2k5) [[Slides_CN](https://pan.baidu.com/s/1A4tF0OBQtWeVkgRDU84Jxw)] (Code: 59tb) [[LP_Tutorial](https://pan.baidu.com/s/1rMAERXfpL7rnKGY3T0CIHw)] (Code: cwam)
 - 12: Submodular Function [[Slides_EN](https://pan.baidu.com/s/1xR24VYVTjQsLKL8YehVo4A)] (Code: j818) [[Slides_CN](https://pan.baidu.com/s/1TRDOutlhoKI9yDZvOFZYFA)] (Code: bqai)
-- 13: Community
+- 13: Community [[Slides_EN](https://pan.baidu.com/s/10ImovKg3Owjcwilz1GUSfQ)] (Code: lkr6) [[Slides_CN](https://pan.baidu.com/s/1rGA3f3qxYKLSfqQkCfCurw)] (Code: gv71)
 - Summary
+- Add. 1: Streaming Algorithms [[Slides_1](https://pan.baidu.com/s/1cVu16r27o7xubvyCRtFURA)] (Code: f1rb) [[Slides_2](https://pan.baidu.com/s/1qHlerjZqddTOqer4XWeXXQ)] (Code: j9cg)
+- Add. 2: Submodular Function 2
 
 ### Project
 
