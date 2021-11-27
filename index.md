@@ -41,7 +41,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 13: Community [[Slides_EN](https://pan.baidu.com/s/10ImovKg3Owjcwilz1GUSfQ)] (Code: lkr6) [[Slides_CN](https://pan.baidu.com/s/1rGA3f3qxYKLSfqQkCfCurw)] (Code: gv71)
 - Summary
 - Add. 1: Streaming Algorithms [[Slides_1](https://pan.baidu.com/s/1cVu16r27o7xubvyCRtFURA)] (Code: f1rb) [[Slides_2](https://pan.baidu.com/s/1qHlerjZqddTOqer4XWeXXQ)] (Code: j9cg)
-- Add. 2: Submodular Function 2
+- Add. 2: MCMC [[Slides_EN](https://pan.baidu.com/s/1ARGSZKzjLbKBeJ9kL5q09w)] (Code: jmjm)
 
 ### Project
 
