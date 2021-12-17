@@ -35,13 +35,14 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - Mid-Term Summary [[Slides](https://pan.baidu.com/s/1KpEgx0k23eKHc_0vaqwjGw)] (Code: hpkn)
 - 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
 - 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
-- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1-0doDzdU7V6j3bLHdABAAA)] (Code: 125p) [[Slides_CN](https://pan.baidu.com/s/1WZiIpR7LWeTMSxGPujQ9oQ)] (Code: m9v6)
+- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1-0doDzdU7V6j3bLHdABAAA)] (Code: 125p) [[Slides_CN](https://pan.baidu.com/s/1WZiIpR7LWeTMSxGPujQ9oQ)] (Code: m9v6) 
 - 11: Integer Programming [[Slides_EN](https://pan.baidu.com/s/1i43mFV9-AREQk4RLgGLAwQ)] (Code: l2k5) [[Slides_CN](https://pan.baidu.com/s/1A4tF0OBQtWeVkgRDU84Jxw)] (Code: 59tb) [[LP_Tutorial](https://pan.baidu.com/s/1rMAERXfpL7rnKGY3T0CIHw)] (Code: cwam)
 - 12: Submodular Function 1: Definition [[Slides_EN](https://pan.baidu.com/s/1xR24VYVTjQsLKL8YehVo4A)] (Code: j818) [[Slides_CN](https://pan.baidu.com/s/1TRDOutlhoKI9yDZvOFZYFA)] (Code: bqai)
 - 13: Community [[Slides_EN](https://pan.baidu.com/s/10ImovKg3Owjcwilz1GUSfQ)] (Code: lkr6) [[Slides_CN](https://pan.baidu.com/s/1rGA3f3qxYKLSfqQkCfCurw)] (Code: gv71)
 - Summary
 - Add. 1: Streaming Algorithms [[Slides_1](https://pan.baidu.com/s/1cVu16r27o7xubvyCRtFURA)] (Code: f1rb) [[Slides_2](https://pan.baidu.com/s/1qHlerjZqddTOqer4XWeXXQ)] (Code: j9cg)
 - Add. 2: Submodular Function 2: Applications [[Slides_1](https://pan.baidu.com/s/1wQKjfdz0Alhy1VQEIg0I6A)] (Code: snp5) [[Slides_2](https://pan.baidu.com/s/1isYrW4N01psw3q95SqRe8A)] (Code: b5pv)
+- Answers for Tutorials: [[Tutorial 8-10](https://pan.baidu.com/s/1rOVx974890taZ3k9x8td3g)] (Code: 7jv9)
 
 ### Project
 
