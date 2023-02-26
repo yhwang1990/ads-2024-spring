@@ -44,15 +44,15 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### Project
 
 - **Project 1: Similarity Search**
-  1. **Task Description:** Locality-Sensitive Hashing (LSH) is one of the most popular. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
+  1. **Task Description:** Locality-Sensitive Hashing (LSH) is one of the most popular approaches to similarity search on high-dimensional data. The following dataset is an undirected graph representing the co-authorship between researchers. You need to construct an LSH scheme for similarity search: For any query node, you should find the top-10 nodes (excluding itself) whose neighbor sets have the highest Jaccard similarity scores with that of the query node. In the final report, please illustrate the performance of similarity search, such as accuracy, index time, query time, and space usage, etc.
   2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
   3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 - **Project 2: Image Compression**
-  1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
+  1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You should choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
   2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
   3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
-- **Project 3: Text Summarization**
-  1. **Task Description:** You should crawl a corpus from the Web, which contains some documents under a topic, and extract keywords from them. Then, you need to implement an algorithm (based on the maximum k-coverage problem) to generate 100 summaries from the corpus. In the final report, please illustrate the performance of text summarization, such as elapsed time, quality of generated summaries, and case study, etc.
+- **Project 3: Recommendation**
+  1. **Task Description:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as accuracy, training time, prediction time, and case study, etc.
   2. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 
 ### Textbook
