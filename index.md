@@ -1,6 +1,6 @@
 # Algorithms for Data Science and Engineering
 
-## ---  2021, Fall  ---
+## ---  2023, Spring  ---
 
 ### Course Description
 
@@ -9,48 +9,49 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### Instructor: Yanhao Wang (王延昊)
 
 - Ph. D. & Tenure-Track Associate Professor
-- Office: Rm. East 117, Math. Building
+- Office: Rm. East 115, Math. Building
 - Email: <yhwang@dase.ecnu.edu.cn>
 
 ### Teaching Assistants
 
-- Name: Kangyang Luo (罗康洋) & Kunkun Zhang (张坤坤)
-- Office: Rm. East 101, Math. Building
-- Email: <52205901003@stu.ecnu.edu.cn> & <51205903092@stu.ecnu.edu.cn>
+- Name: Jiaxi Pu (浦家希) & Jia Li (李佳)
+- Office: Rm. East 102, Math. Building
+- Email: <52205901003@stu.ecnu.edu.cn> & <jiali@stu.ecnu.edu.cn>
 
 ### Course Time
 
-- Monday 8:00am -- 9:35am (Since Sep. 6, 2021)
-- Friday 1:00pm -- 2:35pm (Since Sep. 10, 2021)
+- Tuesday 9:50am -- 11:25am (Since February 28, 2023)
+- Friday 1:00pm -- 2:35pm (Since March 3, 2023)
 
 ### Course Schedule
 
-- 1: Introduction [[Slides_EN](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_CN](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
+- 1: Introduction [[Slides_1](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_2](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
 - 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1Lcv0lGSvuRpk3iUBwe99kQ)] (Code: tcrr) [[Tutorial](https://pan.baidu.com/s/1X-cwFfaFhNKivYPCvlsY9Q)] (Code: 0vtf)
-- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1k4XlCF0GZ21VKDCh5P2Bfg)] (Code: t7fu) [[Slides_CN](https://pan.baidu.com/s/1cIXBri5UxGsiZSq6HYrBtw)] (Code: d6t8) [[Tutorial](https://pan.baidu.com/s/1ZID_kJ7CYK1A_-BJZ3Z4QA)] (Code: 5vrm)
-- 4: Hashing [[Slides_EN](https://pan.baidu.com/s/19dVE6YeiXG4OMH78n7Edjw)] (Code: sst5) [[Slides_CN](https://pan.baidu.com/s/1WUHPT6AVBMVyf7P-ZeK7Bg)] (Code: 1sgj) [[Tutorial](https://pan.baidu.com/s/1VQGW9VMlhBx1blppgbo_Ug)] (Code: jmc2)
-- 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1MVYkg2z8EF7Ze8JUJqNupg)] (Code: uuq7) [[Slides_CN](https://pan.baidu.com/s/1R32AKBt9fU0uibAt3PqcOA)] (Code: jcvw)
-- 6: EM Algorithm [[Slides_EN](https://pan.baidu.com/s/13UTWYmi66DbtXF6beqZ0VA)] (Code: ft2l) [[Slides_CN](https://pan.baidu.com/s/1m07_vBtYycaW8t3ytpBYYw)] (Code: 9clh) [[Tutorial](https://pan.baidu.com/s/1lUPJbsOeQKL85Sm-_IM5MQ)] (Code: 748n)
-- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1H6ZYQUnx0GKieUB4gq6FqA)] (Code: 0kuw) [[Slides_CN](https://pan.baidu.com/s/1mSoqENoCAtlSuaBURVcNJg)] (Code: sqep) [[Tutorial](https://pan.baidu.com/s/1sPwNnrNiiSJT8DsPmDrWUw)] (Code: hta7)
-- Mid-Term Summary [[Slides](https://pan.baidu.com/s/1KpEgx0k23eKHc_0vaqwjGw)] (Code: hpkn)
-- 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1KbVlNo5CT2Pn6_aTiCqPQA)] (Code: jmsm) [[Slides_CN](https://pan.baidu.com/s/1Iz12NNAmK8y5hFXxWEAGyQ)] (Code: d6d6)
-- 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/14jfmWvlMJJlZ3bOvM4MYzQ)] (Code: ktdb) [[Slides_CN](https://pan.baidu.com/s/1O3UPTzHMd4wONbiZNzgTvA)] (Code: r57l)
-- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1-0doDzdU7V6j3bLHdABAAA)] (Code: 125p) [[Slides_CN](https://pan.baidu.com/s/1WZiIpR7LWeTMSxGPujQ9oQ)] (Code: m9v6) 
-- 11: Integer Programming [[Slides_EN](https://pan.baidu.com/s/1i43mFV9-AREQk4RLgGLAwQ)] (Code: l2k5) [[Slides_CN](https://pan.baidu.com/s/1A4tF0OBQtWeVkgRDU84Jxw)] (Code: 59tb) [[LP_Tutorial](https://pan.baidu.com/s/1rMAERXfpL7rnKGY3T0CIHw)] (Code: cwam)
-- 12: Submodular Function 1: Definition [[Slides_EN](https://pan.baidu.com/s/1xR24VYVTjQsLKL8YehVo4A)] (Code: j818) [[Slides_CN](https://pan.baidu.com/s/1TRDOutlhoKI9yDZvOFZYFA)] (Code: bqai)
-- 13: Community [[Slides_EN](https://pan.baidu.com/s/10ImovKg3Owjcwilz1GUSfQ)] (Code: lkr6) [[Slides_CN](https://pan.baidu.com/s/1rGA3f3qxYKLSfqQkCfCurw)] (Code: gv71)
+- 3: Probability Inequality
+- 4: Hashing
+- 5: Sketch
+- 6: Streaming Algorithm
+- 7: Markov Chain and Random Walk
+- Mid-Term Summary
+- 8: Eigenvalue Computation
+- 9: SVD and PCA
+- 10: Matrix Decomposition
+- 11: Linear & Integer Programming
+- 12: Submodular Function
+- 13: Community
 - Summary
-- Add. 1: Streaming Algorithms [[Slides_1](https://pan.baidu.com/s/1cVu16r27o7xubvyCRtFURA)] (Code: f1rb) [[Slides_2](https://pan.baidu.com/s/1qHlerjZqddTOqer4XWeXXQ)] (Code: j9cg)
-- Add. 2: Submodular Function 2: Applications [[Slides_1](https://pan.baidu.com/s/1wQKjfdz0Alhy1VQEIg0I6A)] (Code: snp5) [[Slides_2](https://pan.baidu.com/s/1isYrW4N01psw3q95SqRe8A)] (Code: b5pv)
-- Answers for Tutorials: [[Tutorial 8-10](https://pan.baidu.com/s/1rOVx974890taZ3k9x8td3g)] (Code: 7jv9) [[Tutorial 11-13](https://pan.baidu.com/s/1ChYzQjKix35E6L8PCeHOEg)] (Code: amb3)
 
 ### Project
 
-- **Project 1: Image Compression**
+- **Project 1: Similarity Search**
+  1. **Task Description:** Locality-Sensitive Hashing (LSH) is one of the most popular. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
+  2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
+  3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
+- **Project 2: Image Compression**
   1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You can choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
   2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
   3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
-- **Project 2: Text Summarization**
+- **Project 3: Text Summarization**
   1. **Task Description:** You should crawl a corpus from the Web, which contains some documents under a topic, and extract keywords from them. Then, you need to implement an algorithm (based on the maximum k-coverage problem) to generate 100 summaries from the corpus. In the final report, please illustrate the performance of text summarization, such as elapsed time, quality of generated summaries, and case study, etc.
   2. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
 
