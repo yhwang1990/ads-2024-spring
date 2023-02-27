@@ -16,7 +16,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - Name: Jiaxi Pu (浦家希) & Jia Li (李佳)
 - Office: Rm. East 102, Math. Building
-- Email: <52205901003@stu.ecnu.edu.cn> & <jiali@stu.ecnu.edu.cn>
+- Email: <51215903021@stu.ecnu.edu.cn> & <jiali@stu.ecnu.edu.cn>
 
 ### Course Time
 
