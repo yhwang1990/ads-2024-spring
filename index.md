@@ -25,8 +25,8 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### Course Schedule
 
-- 1: Introduction [[Slides_1](https://pan.baidu.com/s/1sdvgD2M1MFy1e_GXegvaxQ)] (Code: 9ilq) [[Slides_2](https://pan.baidu.com/s/1jIjJwPKU5JRza08YBqURfw)] (Code: 7k7v)
-- 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1T8haZdIRl2eupPbVEP26Ww)] (Code: ei73) [[Slides_CN](https://pan.baidu.com/s/1Lcv0lGSvuRpk3iUBwe99kQ)] (Code: tcrr) [[Tutorial](https://pan.baidu.com/s/1X-cwFfaFhNKivYPCvlsY9Q)] (Code: 0vtf)
+- 1: Introduction [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
+- 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1_RL0BZDS-RIHvuZGONv3pw)] (Code: rwjf) [[Slides_CN](https://pan.baidu.com/s/1bcf20lrK6fBFQpZ8MVenEw)] (Code: ju5h)
 - 3: Probability Inequality
 - 4: Hashing
 - 5: Sketch
@@ -45,15 +45,15 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - **Project 1: Similarity Search**
   1. **Task Description:** Locality-Sensitive Hashing (LSH) is one of the most popular approaches to similarity search on high-dimensional data. The following dataset is an undirected graph representing the co-authorship between researchers. You need to construct an LSH scheme for similarity search: For any query node, you should find the top-10 nodes (excluding itself) whose neighbor sets have the highest Jaccard similarity scores with that of the query node. In the final report, please illustrate the performance of similarity search, such as accuracy, index time, query time, and space usage, etc.
-  2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
-  3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
+  2. **Dataset** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
+  3. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 - **Project 2: Image Compression**
   1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You should choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
-  2. **Dataset** [[Download](https://pan.baidu.com/s/1pO-l7Nnnanqj13LktSyeVQ)] (Code: 33x9)
-  3. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
-- **Project 3: Recommendation**
+  2. **Dataset** [[Download](https://pan.baidu.com/s/1hYMMnxg2H3-8vuIXRPkD5w)] (Code: cs65)
+  3. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+- **Project 3: Recommender System**
   1. **Task Description:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as accuracy, training time, prediction time, and case study, etc.
-  2. **Report Template** [[Template](https://pan.baidu.com/s/1uJyUGNLTauhxd-Pnyqc9gA)] (Code: h79m)
+  2. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 
 ### Textbook
 
