@@ -52,7 +52,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   2. **Dataset** [[Download](https://pan.baidu.com/s/1hYMMnxg2H3-8vuIXRPkD5w)] (Code: cs65)
   3. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 - **Project 3: Recommender System**
-  1. **Task Description:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as accuracy, training time, prediction time, and case study, etc.
+  1. **Task Description:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as reconstruction loss, accuracy, training time, and case study, etc.
   2. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 
 ### Textbook
