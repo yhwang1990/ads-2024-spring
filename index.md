@@ -27,7 +27,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - 1: Introduction [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
 - 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1_RL0BZDS-RIHvuZGONv3pw)] (Code: rwjf) [[Slides_CN](https://pan.baidu.com/s/1bcf20lrK6fBFQpZ8MVenEw)] (Code: ju5h)
-- 3: Probability Inequality
+- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/1TjAe9tlsfCkgX0HYzr14UQ)] (Code: swvt)
 - 4: Hashing
 - 5: Sketch
 - 6: Streaming Algorithm
