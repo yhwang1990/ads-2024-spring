@@ -27,7 +27,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - 1: Introduction [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
 - 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1_RL0BZDS-RIHvuZGONv3pw)] (Code: rwjf) [[Slides_CN](https://pan.baidu.com/s/1bcf20lrK6fBFQpZ8MVenEw)] (Code: ju5h)
-- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/18_BRjCjEklIA98FK5N_vcA)] (Code: jf49)
+- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/10rKkzHuyf8dTTMMxj95QTw)] (Code: ugu5)
 - 4: Hashing [[Slides_EN](https://pan.baidu.com/s/1UMpOwbtjKufvZhNTmGuulw)] (Code: dg74) [[Slides_CN](https://pan.baidu.com/s/1C213gyPMI7EHNyQ8_c0TiA)] (Code: 3h89) [[LSH-1](https://pan.baidu.com/s/1KNxiUqXUX9TjqEUV7MGg6Q)] (Code: uzpf) [[LSH-2](https://pan.baidu.com/s/1hU416PR5nSCb5m7eh94KhQ)] (Code: 1cby)
 - 5: Sketch
 - 6: Streaming Algorithm
