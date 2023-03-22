@@ -27,10 +27,10 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - 1: Introduction [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
 - 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1_RL0BZDS-RIHvuZGONv3pw)] (Code: rwjf) [[Slides_CN](https://pan.baidu.com/s/1bcf20lrK6fBFQpZ8MVenEw)] (Code: ju5h) [[Tutorial](https://pan.baidu.com/s/1XqJTiJBCqFWETaWEui8cRQ)] (Code: twnd)
-- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/10rKkzHuyf8dTTMMxj95QTw)] (Code: ugu5)
+- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/10rKkzHuyf8dTTMMxj95QTw)] (Code: ugu5) [[Tutorial](https://pan.baidu.com/s/18rqYImr2HZkN9sTukh3BAg)] (Code: peuz)
 - 4: Hashing [[Slides_EN](https://pan.baidu.com/s/1UMpOwbtjKufvZhNTmGuulw)] (Code: dg74) [[Slides_CN](https://pan.baidu.com/s/1Fl9Y77nagCk2gI7szLpBjw)] (Code: rmmh) [[LSH-1](https://pan.baidu.com/s/1KNxiUqXUX9TjqEUV7MGg6Q)] (Code: uzpf) [[LSH-2](https://pan.baidu.com/s/1hU416PR5nSCb5m7eh94KhQ)] (Code: 1cby)
 - 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1CuQV8Db0dAC7F5umzEulXQ)] (Code: n5sh) [[Slides_CN](https://pan.baidu.com/s/1LPic-RmTSKVHqWBzNhbJYQ)] (Code: xuga)
-- 6: Streaming Algorithm
+- 6: Streaming Algorithm [[Slides_1](https://pan.baidu.com/s/1wCjC0fY14y1s2Lxwi9YAtg)] (Code: 5tua) [[Slides_2](https://pan.baidu.com/s/1HKme5nc2otFPkr1w3eLJ_g)] (Code: vcwr)
 - 7: Markov Chain and Random Walk
 - Mid-Term Summary
 - 8: Eigenvalue Computation
