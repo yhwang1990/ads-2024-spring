@@ -34,7 +34,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1SrjSNTIXsaxvVoTTKibQUw)] (Code: hjqy) [[Slides_CN](https://pan.baidu.com/s/1J1iqCG71BhPjIPfK_wXA9g)] (Code: 1cdf)
 - Mid-Term Summary
 - 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1vtl5apn0fzE8GMIbAs9q-w)] (Code: akwx) [[Slides_CN](https://pan.baidu.com/s/1-PPpdnRv0deptgeJNsc0AQ)] (Code: 8g4t)
-- 9: SVD and PCA
+- 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/18oDf3I5wT2y8Sz-I7aqtmA)] (Code: f4sn) [[Slides_CN](https://pan.baidu.com/s/1gh2QR8p8dzhOu2G9fGCW4w)] (Code: eiq7)
 - 10: Matrix Decomposition
 - 11: Linear & Integer Programming
 - 12: Submodular Function
