@@ -31,7 +31,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 4: Hashing [[Slides_EN](https://pan.baidu.com/s/1UMpOwbtjKufvZhNTmGuulw)] (Code: dg74) [[Slides_CN](https://pan.baidu.com/s/1Fl9Y77nagCk2gI7szLpBjw)] (Code: rmmh) [[LSH-1](https://pan.baidu.com/s/1KNxiUqXUX9TjqEUV7MGg6Q)] (Code: uzpf) [[LSH-2](https://pan.baidu.com/s/1hU416PR5nSCb5m7eh94KhQ)] (Code: 1cby) [[Tutorial](https://pan.baidu.com/s/1FuGlUZFMu-yI_QFS3WgpZA)] (Code: cw9d)
 - 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1CuQV8Db0dAC7F5umzEulXQ)] (Code: n5sh) [[Slides_CN](https://pan.baidu.com/s/1LPic-RmTSKVHqWBzNhbJYQ)] (Code: xuga) [[Tutorial](https://pan.baidu.com/s/1noTHJaNyHPkScqXyVBM9sA)] (Code: a2es)
 - 6: Streaming Algorithm [[Slides_1](https://pan.baidu.com/s/1wCjC0fY14y1s2Lxwi9YAtg)] (Code: 5tua) [[Slides_2](https://pan.baidu.com/s/1HKme5nc2otFPkr1w3eLJ_g)] (Code: vcwr)
-- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1SrjSNTIXsaxvVoTTKibQUw)] (Code: hjqy) [[Slides_CN](https://pan.baidu.com/s/1J1iqCG71BhPjIPfK_wXA9g)] (Code: 1cdf)
+- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1SrjSNTIXsaxvVoTTKibQUw)] (Code: hjqy) [[Slides_CN](https://pan.baidu.com/s/1J1iqCG71BhPjIPfK_wXA9g)] (Code: 1cdf) [[Tutorial](https://pan.baidu.com/s/1sAPaEGujreRbsIbrVCCgdA)] (Code: qjnk)
 - Mid-Term Summary
 - 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1vtl5apn0fzE8GMIbAs9q-w)] (Code: akwx) [[Slides_CN](https://pan.baidu.com/s/1-PPpdnRv0deptgeJNsc0AQ)] (Code: 8g4t)
 - 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/18oDf3I5wT2y8Sz-I7aqtmA)] (Code: f4sn) [[Slides_CN](https://pan.baidu.com/s/1gh2QR8p8dzhOu2G9fGCW4w)] (Code: eiq7)
