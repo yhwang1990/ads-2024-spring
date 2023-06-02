@@ -38,7 +38,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1ApI8m49dTzHDetTue8SsvA)] (Code: tyji) [[Slides_CN](https://pan.baidu.com/s/1PcLKkk3kUEMFAR3T77ZrHg)] (Code: vp1f)
 - 11: Linear & Integer Programming [[Slides_EN](https://pan.baidu.com/s/1UWmA9g_O-t_eFo8dv_hbUQ)] (Code: 7i3j) [[Slides_LP](https://pan.baidu.com/s/10nOuCm04RJ1MYIZbYWqpig)] (Code: 8iaw) [[Slides_IP](https://pan.baidu.com/s/15bkSDa088VDPkM2mt681zQ)] (Code: agms)
 - 12: Submodular Function [[Slides_EN](https://pan.baidu.com/s/1l4hsWnaZN3zSUuTRm1ZBLA)] (Code: cyng) [[Slides_CN](https://pan.baidu.com/s/1mhM_vuHZ8IfD9dTgAwq1qQ)] (Code: 8yw4) [[Reading](https://pan.baidu.com/s/1MNzhKX3o7mnDgU8lhx_eaQ)] (Code: a3jx)
-- 13: Community
+- 13: Community [[Slides_EN](https://pan.baidu.com/s/1V4QCBQfrzK0lx2MqUPbY_g)] (Code: g8qp) [[Slides_CN](https://pan.baidu.com/s/1s8_fdEwU7Y1fbWeKzZyw_Q)] (Code: ikif)
 - Summary
 
 ### Project
