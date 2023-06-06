@@ -33,9 +33,9 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 - 6: Streaming Algorithm [[Slides_1](https://pan.baidu.com/s/1wCjC0fY14y1s2Lxwi9YAtg)] (Code: 5tua) [[Slides_2](https://pan.baidu.com/s/1HKme5nc2otFPkr1w3eLJ_g)] (Code: vcwr)
 - 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1SrjSNTIXsaxvVoTTKibQUw)] (Code: hjqy) [[Slides_CN](https://pan.baidu.com/s/1J1iqCG71BhPjIPfK_wXA9g)] (Code: 1cdf) [[Tutorial](https://pan.baidu.com/s/1sAPaEGujreRbsIbrVCCgdA)] (Code: qjnk)
 - Mid-Term Summary
-- 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1vtl5apn0fzE8GMIbAs9q-w)] (Code: akwx) [[Slides_CN](https://pan.baidu.com/s/1-PPpdnRv0deptgeJNsc0AQ)] (Code: 8g4t)
-- 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/18oDf3I5wT2y8Sz-I7aqtmA)] (Code: f4sn) [[Slides_CN](https://pan.baidu.com/s/1gh2QR8p8dzhOu2G9fGCW4w)] (Code: eiq7)
-- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1ApI8m49dTzHDetTue8SsvA)] (Code: tyji) [[Slides_CN](https://pan.baidu.com/s/1PcLKkk3kUEMFAR3T77ZrHg)] (Code: vp1f)
+- 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1vtl5apn0fzE8GMIbAs9q-w)] (Code: akwx) [[Slides_CN](https://pan.baidu.com/s/1-PPpdnRv0deptgeJNsc0AQ)] (Code: 8g4t) [[Tutorial](https://pan.baidu.com/s/1ueN9WpThXmgD2L2R2EZJIg)] (Code: a3v4)
+- 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/18oDf3I5wT2y8Sz-I7aqtmA)] (Code: f4sn) [[Slides_CN](https://pan.baidu.com/s/1gh2QR8p8dzhOu2G9fGCW4w)] (Code: eiq7) [[Tutorial](https://pan.baidu.com/s/1iVwUUZqRfGI20l5SUD7XPQ)] (Code: r24q)
+- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1ApI8m49dTzHDetTue8SsvA)] (Code: tyji) [[Slides_CN](https://pan.baidu.com/s/1PcLKkk3kUEMFAR3T77ZrHg)] (Code: vp1f) [[Tutorial](https://pan.baidu.com/s/1m31Bq78hjyWOQL761rrXsQ)] (Code: ed2k)
 - 11: Linear & Integer Programming [[Slides_EN](https://pan.baidu.com/s/1UWmA9g_O-t_eFo8dv_hbUQ)] (Code: 7i3j) [[Slides_LP](https://pan.baidu.com/s/10nOuCm04RJ1MYIZbYWqpig)] (Code: 8iaw) [[Slides_IP](https://pan.baidu.com/s/15bkSDa088VDPkM2mt681zQ)] (Code: agms)
 - 12: Submodular Function [[Slides_EN](https://pan.baidu.com/s/1l4hsWnaZN3zSUuTRm1ZBLA)] (Code: cyng) [[Slides_CN](https://pan.baidu.com/s/1mhM_vuHZ8IfD9dTgAwq1qQ)] (Code: 8yw4) [[Reading](https://pan.baidu.com/s/1MNzhKX3o7mnDgU8lhx_eaQ)] (Code: a3jx)
 - 13: Community [[Slides_EN](https://pan.baidu.com/s/1V4QCBQfrzK0lx2MqUPbY_g)] (Code: g8qp) [[Slides_CN](https://pan.baidu.com/s/1s8_fdEwU7Y1fbWeKzZyw_Q)] (Code: ikif)
