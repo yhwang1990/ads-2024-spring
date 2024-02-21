@@ -49,7 +49,8 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
   3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 - **项目二: 图像压缩**
   1. **任务描述:** 主成分分析可以降低矩阵数据（例如图像）的维度，从而将它们映射到更低维度的空间以重构并保留关键信息。你需要从给定的数据集中选取至少100张图片，使用基于主成分分析的方法压缩它们。在实验报告中, 请展示所实现图像压缩算法的关键性能指标，例如重构误差，空间节省，压缩比例，运行时间和实际视觉效果等。
-  2. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+  2. **数据集** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
+  3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 
 ### 参考教材
 
