@@ -21,8 +21,8 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### 课程时间地点
 
 - 文史楼211教室
-- 每周二 14:50 -- 16:25 (1-17周)
-- 每周五 13:00 -- 14:35 (1-17周)
+- 每周二 14:50 -- 16:25 (1-17周理论课)
+- 每周五 13:00 -- 14:35 (1-4周理论课，5-17周实验课)
 
 ### 课程计划
 
@@ -44,11 +44,11 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### 课程项目
 
 - **项目一: 数据流统计算法**
-  1. **任务描述:** The most . The following dataset is an undirected graph representing the co-authorship between researchers. You need to construct an LSH scheme for similarity search: For any query node, you should find the top-10 nodes (excluding itself) whose neighbor sets have the highest Jaccard similarity scores with that of the query node. In the final report, please illustrate the performance of similarity search, such as accuracy, index time, query time, and space usage, etc.
+  1. **任务描述:** 数据集中包含带时间戳的用户对电影的评分信息，我们假设其以数据流的形式随时间增量式获取。 你需要设计并实现空间占用尽量小的数据结构实现如下功能:（1）成员查询：对给定查询时间戳和电影id，查询该电影在该时间戳及之前是否曾被评分过；（2）频度查询：对于给定查询时间戳和电影id，查询该电影在该时间戳及之前被评分的总次数；（3）Top-k查询：对给定正整数k和查询时间戳，查询在该时间戳及之前被评分次数最多的前k个电影。在实验报告中, 请展示所实现数据结构的关键性能指标，例如查询精度，构建与更新时间，查询时间和空间占用等。
   2. **数据集** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
   3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
-- **项目二: 推荐系统**
-  1. **任务描述:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as reconstruction loss, accuracy, training time, and case study, etc.
+- **项目二: 图像压缩**
+  1. **任务描述:** 主成分分析可以降低矩阵数据（例如图像）的维度，从而将它们映射到更低维度的空间以重构并保留关键信息。你需要从给定的数据集中选取至少100张图片，使用基于主成分分析的方法压缩它们。在实验报告中, 请展示所实现图像压缩算法的关键性能指标，例如重构误差，空间节省，压缩比例，运行时间和实际视觉效果等。
   2. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 
 ### 参考教材
