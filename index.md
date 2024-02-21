@@ -26,7 +26,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 ### 课程计划
 
-- 1: 课程简介 (Introduction) [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
+- 1: 课程简介 (Introduction) [[ppt1](https://pan.baidu.com/s/1NYl1qVYhCh2Dj1TmT5XMaQ)] (提取码: 3y3b) [[ppt2](https://pan.baidu.com/s/1VLa67MzdBYvXHInEdJXXKg)] (提取码: anqx)
 - 2: 概率不等式 (Probability Inequality)
 - 3: 哈希算法 (Hashing)
 - 4: 概要数据结构 (Sketch)
@@ -45,18 +45,18 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 
 - **项目一: 数据流统计算法**
   1. **任务描述:** 数据集中包含带时间戳的用户对电影的评分信息，我们假设其以数据流的形式随时间增量式获取。 你需要设计并实现空间占用尽量小的数据结构实现如下功能:（1）成员查询：对给定查询时间戳和电影id，查询该电影在该时间戳及之前是否曾被评分过；（2）频度查询：对于给定查询时间戳和电影id，查询该电影在该时间戳及之前被评分的总次数；（3）Top-k查询：对给定正整数k和查询时间戳，查询在该时间戳及之前被评分次数最多的前k个电影。在实验报告中, 请展示所实现数据结构的关键性能指标，例如查询精度，构建与更新时间，查询时间和空间占用等。
-  2. **数据集** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
-  3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+  2. **数据集** [[Download](https://pan.baidu.com/s/1vuplpiEpZOTF_pjvj9_AeA)] (提取码: 1766)
+  3. **实验报告模板** [[Template](https://pan.baidu.com/s/19a0QswPr710R18bHXxxpYw)] (提取码: mtk4)
 - **项目二: 图像压缩**
   1. **任务描述:** 主成分分析可以降低矩阵数据（例如图像）的维度，从而将它们映射到更低维度的空间以重构并保留关键信息。你需要从给定的数据集中选取至少100张图片，使用基于主成分分析的方法压缩它们。在实验报告中, 请展示所实现图像压缩算法的关键性能指标，例如重构误差，空间节省，压缩比例，运行时间和实际视觉效果等。
-  2. **数据集** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
-  3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+  2. **数据集** [[Download](https://pan.baidu.com/s/1ZybljyQ32gdmsrXSqSafMw)] (提取码: gpez)
+  3. **实验报告模板** [[Template](https://pan.baidu.com/s/19a0QswPr710R18bHXxxpYw)] (提取码: mtk4)
 
 ### 参考教材
 
 - 高明, 胡卉芪著: 数据科学与工程算法基础 [[京东]](https://item.jd.com/12863803.html) [[当当]](http://product.dangdang.com/29253772.html)
-- Jure Leskovec, Anand Rajaraman and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
-- Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
+- Jure Leskovec, Anand Rajaraman, and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
+- Avrim Blum, John Hopcroft, and Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
 ### 在线课程
 
