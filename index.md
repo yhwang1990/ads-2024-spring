@@ -1,67 +1,63 @@
-# Algorithms for Data Science and Engineering
+# 数据科学与工程算法 (Algorithms for Data Science and Engineering)
 
-## ---  2023, Spring  ---
+## ---  2023-24学年第二学期  ---
 
-### Course Description
+### 课程简介
 
-Data scientists, that peculiar mix of software engineer and statistician. The purpose of this course is to introduce some commonly used algorithms for data scientists and engineers. In particular, this class is meant to introduce randomized , statistical, algebraic, and optimized algorithms, with an emphasis on applications in the real life.
+Data scientists, that peculiar mix of software engineer and statistician. The purpose of this course is to introduce some commonly used algorithms for data scientists and engineers. In particular, this class is meant to introduce randomized, statistical, algebraic, and optimized algorithms, with an emphasis on applications in real life.
 
-### Instructor: Yanhao Wang (王延昊)
+### 任课老师: 王延昊 (Yanhao Wang)
 
-- Ph. D. & Tenure-Track Associate Professor
-- Office: Rm. East 115, Math. Building
-- Email: <yhwang@dase.ecnu.edu.cn>
+- 华东师范大学数据科学与工程学院副教授
+- 办公室: 数学馆东115室
+- 电子邮件: <yhwang@dase.ecnu.edu.cn>
 
-### Teaching Assistants
+### 课程助教
 
-- Name: Jiaxi Pu (浦家希) & Jia Li (李佳)
-- Office: Rm. East 102, Math. Building
-- Email: <51215903021@stu.ecnu.edu.cn> & <jiali@stu.ecnu.edu.cn>
+- 姓名: 周逸 (Yi Zhou) & 腾龙 (Long Teng)
+- 办公室: 数学馆东102室
+- 电子邮件: <yzhou@stu.ecnu.edu.cn> & <lteng@stu.ecnu.edu.cn>
 
-### Course Time
+### 课程时间地点
 
-- Tuesday 9:50am -- 11:25am (Since February 28, 2023)
-- Friday 1:00pm -- 2:35pm (Since March 3, 2023)
+- 文史楼211教室
+- 每周二 14:50 -- 16:25 (1-17周)
+- 每周五 13:00 -- 14:35 (1-17周)
 
-### Course Schedule
+### 课程计划
 
-- 1: Introduction [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
-- 2: Sampling [[Slides_EN](https://pan.baidu.com/s/1_RL0BZDS-RIHvuZGONv3pw)] (Code: rwjf) [[Slides_CN](https://pan.baidu.com/s/1bcf20lrK6fBFQpZ8MVenEw)] (Code: ju5h) [[Tutorial](https://pan.baidu.com/s/1XqJTiJBCqFWETaWEui8cRQ)] (Code: twnd)
-- 3: Probability Inequality [[Slides_EN](https://pan.baidu.com/s/1-SD8ynZqm4pNLhalQqjSzQ)] (Code: hqfc) [[Slides_CN](https://pan.baidu.com/s/10rKkzHuyf8dTTMMxj95QTw)] (Code: ugu5) [[Tutorial](https://pan.baidu.com/s/18rqYImr2HZkN9sTukh3BAg)] (Code: peuz)
-- 4: Hashing [[Slides_EN](https://pan.baidu.com/s/1UMpOwbtjKufvZhNTmGuulw)] (Code: dg74) [[Slides_CN](https://pan.baidu.com/s/1Fl9Y77nagCk2gI7szLpBjw)] (Code: rmmh) [[LSH-1](https://pan.baidu.com/s/1KNxiUqXUX9TjqEUV7MGg6Q)] (Code: uzpf) [[LSH-2](https://pan.baidu.com/s/1hU416PR5nSCb5m7eh94KhQ)] (Code: 1cby) [[Tutorial](https://pan.baidu.com/s/1FuGlUZFMu-yI_QFS3WgpZA)] (Code: cw9d)
-- 5: Sketch [[Slides_EN](https://pan.baidu.com/s/1CuQV8Db0dAC7F5umzEulXQ)] (Code: n5sh) [[Slides_CN](https://pan.baidu.com/s/1LPic-RmTSKVHqWBzNhbJYQ)] (Code: xuga) [[Tutorial](https://pan.baidu.com/s/1noTHJaNyHPkScqXyVBM9sA)] (Code: a2es)
-- 6: Streaming Algorithm [[Slides_1](https://pan.baidu.com/s/1wCjC0fY14y1s2Lxwi9YAtg)] (Code: 5tua) [[Slides_2](https://pan.baidu.com/s/1HKme5nc2otFPkr1w3eLJ_g)] (Code: vcwr)
-- 7: Markov Chain and Random Walk [[Slides_EN](https://pan.baidu.com/s/1SrjSNTIXsaxvVoTTKibQUw)] (Code: hjqy) [[Slides_CN](https://pan.baidu.com/s/1J1iqCG71BhPjIPfK_wXA9g)] (Code: 1cdf) [[Tutorial](https://pan.baidu.com/s/1sAPaEGujreRbsIbrVCCgdA)] (Code: qjnk)
-- Mid-Term Summary
-- 8: Eigenvalue Computation [[Slides_EN](https://pan.baidu.com/s/1vtl5apn0fzE8GMIbAs9q-w)] (Code: akwx) [[Slides_CN](https://pan.baidu.com/s/1-PPpdnRv0deptgeJNsc0AQ)] (Code: 8g4t) [[Tutorial](https://pan.baidu.com/s/1ueN9WpThXmgD2L2R2EZJIg)] (Code: a3v4)
-- 9: SVD and PCA [[Slides_EN](https://pan.baidu.com/s/18oDf3I5wT2y8Sz-I7aqtmA)] (Code: f4sn) [[Slides_CN](https://pan.baidu.com/s/1gh2QR8p8dzhOu2G9fGCW4w)] (Code: eiq7) [[Tutorial](https://pan.baidu.com/s/1iVwUUZqRfGI20l5SUD7XPQ)] (Code: r24q)
-- 10: Matrix Decomposition [[Slides_EN](https://pan.baidu.com/s/1ApI8m49dTzHDetTue8SsvA)] (Code: tyji) [[Slides_CN](https://pan.baidu.com/s/1PcLKkk3kUEMFAR3T77ZrHg)] (Code: vp1f) [[Tutorial](https://pan.baidu.com/s/1m31Bq78hjyWOQL761rrXsQ)] (Code: ed2k)
-- 11: Linear & Integer Programming [[Slides_EN](https://pan.baidu.com/s/1UWmA9g_O-t_eFo8dv_hbUQ)] (Code: 7i3j) [[Slides_LP](https://pan.baidu.com/s/10nOuCm04RJ1MYIZbYWqpig)] (Code: 8iaw) [[Slides_IP](https://pan.baidu.com/s/15bkSDa088VDPkM2mt681zQ)] (Code: agms) [[Tutorial](https://pan.baidu.com/s/1p75HaMd0gh0p-qX5cR76XQ)] (Code: a6k3)
-- 12: Submodular Function [[Slides_EN](https://pan.baidu.com/s/1l4hsWnaZN3zSUuTRm1ZBLA)] (Code: cyng) [[Slides_CN](https://pan.baidu.com/s/1mhM_vuHZ8IfD9dTgAwq1qQ)] (Code: 8yw4) [[Reading](https://pan.baidu.com/s/1MNzhKX3o7mnDgU8lhx_eaQ)] (Code: a3jx) [[Tutorial](https://pan.baidu.com/s/15SuZtBdLXB9ilMp9RFNlyA)] (Code: ziww)
-- 13: Community [[Slides_EN](https://pan.baidu.com/s/1V4QCBQfrzK0lx2MqUPbY_g)] (Code: g8qp) [[Slides_CN](https://pan.baidu.com/s/1s8_fdEwU7Y1fbWeKzZyw_Q)] (Code: ikif) [[Tutorial](https://pan.baidu.com/s/15fzw2Tg7PKYqNkycX9VjuA)] (Code: hsjt)
-- Summary
+- 1: 课程简介 (Introduction) [[Slides_1](https://pan.baidu.com/s/16hZKOu4R2eysO5lVahWIMA)] (Code: 59aq) [[Slides_2](https://pan.baidu.com/s/1GaolUUupjFAlmaL6BDdzhg)] (Code: 17gr)
+- 2: 概率不等式 (Probability Inequality)
+- 3: 哈希算法 (Hashing)
+- 4: 概要数据结构 (Sketch)
+- 5: 采样算法 (Sampling)
+- 6: 马尔可夫链与随机游走 (Markov Chain and Random Walk)
+- 期中总结 (Mid-Term Summary)
+- 7: 特征值分解 (Eigenvalue Computation)
+- 8: 奇异值分解与主成分分析 (SVD and PCA)
+- 9: 矩阵因式分解 (Matrix Decomposition)
+- 10: 线性与整数规划 (Linear & Integer Programming)
+- 11: 次模函数 (Submodular Function)
+- 12: 社区发现 (Community)
+- 期末总结 (Summary)
 
-### Project
+### 课程项目
 
-- **Project 1: Similarity Search**
-  1. **Task Description:** Locality-Sensitive Hashing (LSH) is one of the most popular approaches to similarity search on high-dimensional data. The following dataset is an undirected graph representing the co-authorship between researchers. You need to construct an LSH scheme for similarity search: For any query node, you should find the top-10 nodes (excluding itself) whose neighbor sets have the highest Jaccard similarity scores with that of the query node. In the final report, please illustrate the performance of similarity search, such as accuracy, index time, query time, and space usage, etc.
-  2. **Dataset** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
-  3. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
-- **Project 2: Image Compression**
-  1. **Task Description:** Principal component analysis (PCA) can be used to reduce the dimensions of the matrix (image) and project those new dimensions to reform the image that retains its qualities but is smaller in k-weight. You should choose 100 images from single class from the following dataset, and employ PCA to compress the images. In the final report, please illustrate the performance of image compression, such as reconstruction error, space saving, compressing rate, and case study, etc.
-  2. **Dataset** [[Download](https://pan.baidu.com/s/1hYMMnxg2H3-8vuIXRPkD5w)] (Code: cs65)
-  3. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
-- **Project 3: Recommender System**
-  1. **Task Description:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as reconstruction loss, accuracy, training time, and case study, etc.
-  2. **Report Template** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+- **项目一: 数据流统计算法**
+  1. **任务描述:** The most . The following dataset is an undirected graph representing the co-authorship between researchers. You need to construct an LSH scheme for similarity search: For any query node, you should find the top-10 nodes (excluding itself) whose neighbor sets have the highest Jaccard similarity scores with that of the query node. In the final report, please illustrate the performance of similarity search, such as accuracy, index time, query time, and space usage, etc.
+  2. **数据集** [[Download](https://pan.baidu.com/s/1ElIvXeScUikbx7HlY1-MQw)] (Code: thvw)
+  3. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
+- **项目二: 推荐系统**
+  1. **任务描述:** Matrix Factorization (MF) and Nonnegative Matrix Factorization (NMF) are essential tools for recommendation. You should find and download a dataset containing user-item rating data. Then, you need to implement an MF or NMF-based algorithm to build a recommender system from the dataset. In the final report, please illustrate the performance of recommendation, such as reconstruction loss, accuracy, training time, and case study, etc.
+  2. **实验报告模板** [[Template](https://pan.baidu.com/s/1p7iB7yT_VF_B8PxV_T1OEw)] (Code: gg7i)
 
-### Textbook
+### 参考教材
 
-- Ming Gao, Huiqi Hu: Algorithm Foundations of Data Science and Engineering [[JD]](https://item.jd.com/12863803.html) [[DangDang]](http://product.dangdang.com/29253772.html)
+- 高明, 胡卉芪著: 数据科学与工程算法基础 [[京东]](https://item.jd.com/12863803.html) [[当当]](http://product.dangdang.com/29253772.html)
 - Jure Leskovec, Anand Rajaraman and Jeff Ullman: [Mining of Massive Datasets](http://mmds.org)
 - Avrim Blum, John Hopcroft, Ravindran Kannan: [Foundations of Data Science](https://home.ttic.edu/~avrim/book.pdf)
 
-### Online Courses
+### 在线课程
 
 - CS246 @ Stanford University by Jure Leskovec: [Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
 - D&K @ Université Paris-Saclay by Albert Bifet: [IoT Stream Data Mining](https://albertbifet.com/dk-iot-stream-data-mining-2019-2020/)
