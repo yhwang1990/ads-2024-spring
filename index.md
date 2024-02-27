@@ -27,7 +27,7 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### 课程计划
 
 - 1: 课程简介 (Introduction) [[ppt1](https://pan.baidu.com/s/1NYl1qVYhCh2Dj1TmT5XMaQ)] (提取码: 3y3b) [[ppt2](https://pan.baidu.com/s/1VLa67MzdBYvXHInEdJXXKg)] (提取码: anqx)
-- 2: 概率不等式 (Probability Inequality)
+- 2: 概率不等式 (Probability Inequality) [[ppt](https://pan.baidu.com/s/1Vb6fvesEEsrvHiWzEQQahg)] (提取码：gsp9)
 - 3: 哈希算法 (Hashing)
 - 4: 概要数据结构 (Sketch)
 - 5: 采样算法 (Sampling)
