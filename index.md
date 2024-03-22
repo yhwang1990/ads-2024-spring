@@ -27,10 +27,10 @@ Data scientists, that peculiar mix of software engineer and statistician. The pu
 ### 课程计划
 
 - 1: 课程简介 (Introduction) [[ppt1](https://pan.baidu.com/s/15bQZnAO31ibKrU7MKtzZhA)] (提取码: 97iv) [[ppt2](https://pan.baidu.com/s/1VLa67MzdBYvXHInEdJXXKg)] (提取码: anqx)
-- 2: 概率不等式 (Probability Inequality) [[ppt](https://pan.baidu.com/s/1Vb6fvesEEsrvHiWzEQQahg)] (提取码：gsp9)
+- 2: 概率不等式 (Probability Inequality) [[ppt](https://pan.baidu.com/s/1Vb6fvesEEsrvHiWzEQQahg)] (提取码：gsp9) [[习题答案](https://pan.baidu.com/s/13D5AIB-kRhaBvViYClVoPA)] (提取码：zhue)
 - 3: 哈希算法 (Hashing) [[ppt](https://pan.baidu.com/s/1G0IA0IA9EVAujCr9f4GYIQ)] (提取码：3lmg) [[lsh](https://pan.baidu.com/s/1TjC9ts5vRVfTOAn56ruHkA)] (提取码：qdbs)
 - 4: 概要数据结构 (Sketch) [[ppt](https://pan.baidu.com/s/1Kisz8IQPL-MMzKNu6lVB6Q)] (提取码：hzf8)
-- 5: 采样算法 (Sampling) [[ppt](https://pan.baidu.com/s/1-I7Vz0SvXl_Zf4PGN6eLNw)] (提取码：iwaa)
+- 5: 采样算法 (Sampling) [[ppt](https://pan.baidu.com/s/1-I7Vz0SvXl_Zf4PGN6eLNw)] (提取码：iwaa) [[stream1](https://pan.baidu.com/s/1j52C2yLwu1IxXgDc4-dIDA)] (提取码：ibz7) [[stream2](https://pan.baidu.com/s/1WSrf3_ik1uCxngjYvSDm3A)] (提取码：lh2i)
 - 6: 马尔可夫链与随机游走 (Markov Chain and Random Walk)
 - 期中总结 (Mid-Term Summary)
 - 7: 特征值分解 (Eigenvalue Computation)
